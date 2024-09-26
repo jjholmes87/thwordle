@@ -59,7 +59,7 @@
         training || special ? "left-12" : ""
       }`}
     >
-      Thwordle
+    เวิอด์ดึน
       {#if training}
         <span class="text-amber-600 text-xs relative top-3 right-12 px-1 rounded">Training</span>
       {/if}
