@@ -300,7 +300,7 @@
 
 <div class="footer-wrapper">
   <Kofi name="narze" label="Support Me" />
-  <Menu items={menuItems} />
+  <!-- <Menu items={menuItems} /> -->
   <Social {url} {title} />
 </div>
 <Head {title} {description} {url} {imageUrl} {gtagId} />

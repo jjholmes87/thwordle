@@ -14,11 +14,11 @@
   import { layouts } from "./lib/layouts"
 
   const url = "https://thwordle.vercel.app"
-  const title = "Thwordle : Thai Wordle เวอเดิ้ลภาษาไทย"
+  const title = "เวอเดิ้ล : Thai Wordle เวิอด์ดึนภาษาไทย"
 
   const menuItems = [
-    { name: "Twitter", url: "https://twitter.com/thwordle" },
-    { name: "Github", url: "https://github.com/narze/thwordle" },
+    /*{ name: "Twitter", url: "https://twitter.com/thwordle" },
+    { name: "Github", url: "https://github.com/narze/thwordle" },*/
   ]
 
   const description = "Thwordle : เวอเดิ้ลภาษาไทย"
@@ -245,7 +245,7 @@
 
 <div class="footer-wrapper">
   <Kofi name="narze" label="Support Me" />
-  <Menu items={menuItems} />
+  <!-- <Menu items={menuItems} /> -->
   <Social {url} {title} />
 </div>
 <Head {title} {description} {url} {imageUrl} {gtagId} />
