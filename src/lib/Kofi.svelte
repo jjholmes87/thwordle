@@ -1,5 +1,5 @@
 <script lang="ts">
-  import LibLoader from "./LibLoader.svelte"
+  /*import LibLoader from "./LibLoader.svelte"
 
   export let name: string
   export let label = "Support me"
@@ -15,7 +15,7 @@
       },
       "kofiContainer"
     )
-  }
+  }*/
 </script>
 
 {#if name}
