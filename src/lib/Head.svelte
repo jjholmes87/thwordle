@@ -37,7 +37,7 @@
         dataLayer.push(arguments)
       }
       gtag("js", new Date())
-      gtag("config", "G-D48ZMRTDBR")
+      gtag("config", "GTM-PZ3GH3JD")
     </script>
   {/if}
 </svelte:head>
