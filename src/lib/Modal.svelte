@@ -213,10 +213,7 @@
 
               <hr class="my-2" />
 
-              <a
-                class="text-gray-500 text-sm underline dark:text-gray-300"
-                href="https://twitter.com/thwordle"
-              >
+              <a href="https://www.facebook.com/profile.php?id=61566542547982" target="_blank" rel="noopener noreferrer">
                 แจ้งบั๊ก / ข้อเสนอแนะ
               </a>
             </div>
